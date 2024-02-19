@@ -9,7 +9,7 @@ I'm a software developer currently majoring in computer science at the Universit
 - :man_technologist: I'm an incoming Software Engineer Intern at Bloomberg!
    - I have previous experience working at Capital One and Jia Technologies.
 - :notebook: At UMD, I hold positions as:
-   - Engineer at [Hack4Impact-UMD](https://umd.hack4impact.org/)
+   - Software Engineer at [Hack4Impact-UMD](https://umd.hack4impact.org/)
    - Teaching Assistant for CMSC330 - Organization of Programming Languages
    - Professional CS Chair at [Sigma Phi Delta](https://beta-iota.sigmaphidelta.org/) (Engineering Fraternity)
 
