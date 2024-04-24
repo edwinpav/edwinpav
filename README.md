@@ -12,6 +12,7 @@ I'm a software developer currently majoring in computer science at the Universit
    - Software Engineer at [Hack4Impact-UMD](https://umd.hack4impact.org/)
    - Teaching Assistant for CMSC330 - Organization of Programming Languages
    - Professional CS Chair at [Sigma Phi Delta](https://beta-iota.sigmaphidelta.org/) (Engineering Fraternity)
+- :round_pushpin: hiker, hooper, coder, steph curry superfan
 
 ### Languages and Tools
 <div>
