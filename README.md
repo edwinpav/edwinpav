@@ -6,7 +6,7 @@
 I'm a software developer currently majoring in computer science at the University of Maryland - College Park.
 - :eyes: I'm interested in distributed systems, functional languages, and full-stack engineering.
 - :goal_net: My goal is to use my technological skills to build software that has a meaningful and positive impact on others.
-- :man_technologist: I'm a Software Engineer Intern at Bloomberg!
+- :man_technologist: I'm a Software Engineering Intern at Bloomberg!
    - I have previous experience working at Capital One and Jia Technologies.
 - :notebook: At UMD, I hold positions as:
    - Software Engineer at [Hack4Impact-UMD](https://umd.hack4impact.org/)
