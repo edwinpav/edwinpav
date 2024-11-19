@@ -3,15 +3,15 @@
 </div>
 
 ### About Me
-I'm a software developer currently majoring in computer science at the University of Maryland - College Park.
-- :eyes: I'm interested in distributed systems, functional languages, and full-stack engineering.
+I'm a software engineer currently majoring in computer science with a minor in statistics at the University of Maryland - College Park.
+- :eyes: I'm interested in distributed systems, functional languages, infrastructure and backend engineering.
 - :goal_net: My goal is to use my technological skills to build software that has a meaningful and positive impact on others.
-- :man_technologist: I'm a Software Engineering Intern at Bloomberg!
-   - I have previous experience working at Capital One and Jia Technologies.
+- :man_technologist: I have completed 5 software engineering internships, specializing in backend and infrastructure!
+   - I have worked at Bloomberg, Amazon Web Services, Capital One (twice), and Jia Technologies.
 - :notebook: At UMD, I hold positions as:
    - Software Engineer at [Hack4Impact-UMD](https://umd.hack4impact.org/)
-   - Teaching Assistant for CMSC330 - Organization of Programming Languages
-   - Professional CS Chair at [Sigma Phi Delta](https://beta-iota.sigmaphidelta.org/) (Engineering Fraternity)
+   - Teaching Assistant for [CMSC330 - Organization of Programming Languages](https://bakalian.cs.umd.edu/330)
+   - (Former) Professional CS Chair at [Sigma Phi Delta](https://beta-iota.sigmaphidelta.org/) (Engineering Fraternity)
 - :round_pushpin: hiker, hooper, coder, steph curry superfan
 
 ### Languages and Tools
