@@ -7,7 +7,7 @@ I'm a software engineer currently majoring in computer science with a minor in s
 - :eyes: I'm interested in distributed systems, functional languages, infrastructure and backend engineering.
 - :goal_net: My goal is to use my technological skills to build software that has a meaningful and positive impact on others.
 - :man_technologist: I have completed 5 software engineering internships, specializing in backend and infrastructure!
-   - I have worked at Bloomberg, Amazon Web Services, Capital One (twice), and Jia Technologies.
+   - I've worked at Bloomberg, Amazon Web Services, Capital One (twice), and Jia Technologies.
 - :notebook: At UMD, I hold positions as:
    - Software Engineer at [Hack4Impact-UMD](https://umd.hack4impact.org/)
    - Teaching Assistant for [CMSC330 - Organization of Programming Languages](https://bakalian.cs.umd.edu/330)
