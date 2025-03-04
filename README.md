@@ -12,7 +12,7 @@ I'm a software engineer currently majoring in computer science with a minor in s
    - Teaching Assistant for [CMSC330 - Organization of Programming Languages](https://bakalian.cs.umd.edu/330)
    - (Former) Software Engineer at [Hack4Impact-UMD](https://umd.hack4impact.org/)
    - (Former) Professional CS Chair at [Sigma Phi Delta](https://beta-iota.sigmaphidelta.org/) (Engineering Fraternity)
-- :round_pushpin: hiker, hooper, coder, [novice reader](https://www.goodreads.com/user/show/184227225-edwin), steph curry superfan
+- :round_pushpin: [hiker](https://www.alltrails.com/members/edwin-pavlovsky), hooper, coder, [novice reader](https://www.goodreads.com/user/show/184227225-edwin), steph curry superfan
 
 ### Languages and Tools
 <div>
