@@ -3,22 +3,22 @@
 </div>
 
 ### About Me
-I'm a software engineer currently majoring in computer science with a minor in statistics at the University of Maryland - College Park.
-- :eyes: I'm interested in distributed systems, functional languages, infrastructure and backend engineering.
-- :goal_net: My goal is to use my technological skills to build software that has a meaningful and positive impact on others.
-- :man_technologist: I have completed 5 software engineering internships, specializing in backend and infrastructure!
-   - I've worked at Bloomberg, Amazon Web Services, Capital One (twice), and Jia Technologies.
-- :notebook: At UMD, I hold positions as:
+I'm currently a software engineer working at [Scale AI](https://github.com/scaleapi) in nyc.
+- :school: I graduated from the University of Maryland - College Park with a degree in computer science and a minor in statistics
+- :eyes: I'm interested in distributed systems, backend and infrastructure engineering, and functional languages
+- :man_technologist: I've completed 5 software engineering internships, specializing in backend and infrastructure
+   - I've worked at Bloomberg, Amazon Web Services, Capital One, and Jia Technologies
+- :notebook: At UMD, I held positions as:
    - Teaching Assistant for [CMSC330 - Organization of Programming Languages](https://bakalian.cs.umd.edu/330)
-   - (Former) Software Engineer at [Hack4Impact-UMD](https://umd.hack4impact.org/)
-   - (Former) Professional CS Chair at [Sigma Phi Delta](https://beta-iota.sigmaphidelta.org/) (Engineering Fraternity)
+   - Software Engineer at [Hack4Impact-UMD](https://umd.hack4impact.org/)
+   - Professional CS Chair at [Sigma Phi Delta](https://beta-iota.sigmaphidelta.org/) (Engineering Fraternity)
 - :round_pushpin: [hiker](https://www.alltrails.com/members/edwin-pavlovsky), hooper, coder, [novice reader](https://www.goodreads.com/user/show/184227225-edwin), steph curry superfan
 
 ### Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original-wordmark.svg" title="OCaml" alt="OCaml" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
