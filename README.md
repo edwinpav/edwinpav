@@ -6,7 +6,7 @@
 I'm currently a software engineer working at [Scale AI](https://github.com/scaleapi) in nyc.
 - :school: I graduated from the University of Maryland - College Park with a degree in computer science and a minor in statistics
 - :eyes: I'm interested in distributed systems, backend and infrastructure engineering, and functional languages
-- :man_technologist: I've completed 5 software engineering internships, specializing in backend and infrastructure
+- :man_technologist: I've completed 5 software engineering internships, specializing in fullstack & data infra
    - I've worked at Bloomberg, Amazon Web Services, Capital One, and Jia Technologies
 - :notebook: At UMD, I held positions as:
    - Teaching Assistant for [CMSC330 - Organization of Programming Languages](https://bakalian.cs.umd.edu/330)
