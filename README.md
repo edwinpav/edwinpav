@@ -41,8 +41,6 @@ I'm currently a software engineer working at [Scale AI](https://github.com/scale
 <a href="https://www.linkedin.com/in/edwin-pavlovsky/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Stats
-[![Edwin's GitHub stats](https://github-stats-extended.vercel.app/api?username=edwinpav)](https://github.com/stats-organization/github-stats-extended)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edwinpav&theme=dracula)](https://git.io/streak-stats)
 <!-- ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinpav&count_private=true&show_icons=true&theme=dracula) -->
 
